@@ -1,2 +1,2 @@
-https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?select=Books_rating.csv
-https://www.kaggle.com/datasets/ebiswas/imdb-review-dataset
+CSV Data: https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?select=Books_rating.csv
+JSON Data: https://www.kaggle.com/datasets/ebiswas/imdb-review-dataset
