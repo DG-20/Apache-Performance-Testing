@@ -1,0 +1,104 @@
+C:\Users\LiamP\OneDrive\Desktop\533 scripts>python finalJcsv50.py
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+24/04/25 18:42:44 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+24/04/25 18:42:47 WARN SizeEstimator: Failed to check whether UseCompressedOops is set; assuming yes
+root
+ |-- Id: string (nullable = true)
+ |-- Title: string (nullable = true)
+ |-- price: double (nullable = true)
+ |-- User_id: string (nullable = true)
+ |-- profileName: string (nullable = true)
+ |-- review/helpfulness: double (nullable = true)
+ |-- review/score: double (nullable = true)
+ |-- review/time: timestamp (nullable = true)
+ |-- review/summary: string (nullable = true)
+ |-- review/text: string (nullable = true)
+
+Starting epoch 1
++----------+--------------------+-----+--------------------+--------------------+------------------+------------+-----------+--------------------+--------------------+--------------------+
+|        Id|               Title|price|             User_id|         profileName|review/helpfulness|review/score|review/time|      review/summary|         review/text|             authors|
++----------+--------------------+-----+--------------------+--------------------+------------------+------------+-----------+--------------------+--------------------+--------------------+
+|B0007H2HAM|"""Always ready!"...| NULL|        stout hearts|  and alert minds"""|              NULL|        NULL|       NULL| Bell had already...| 1941) which was ...|&dq=%22Always+rea...|
+|0804467900|"""Carefree"" (R....| NULL|      A15LK8DSFQZZ52|"Patricia R. Ande...|              NULL|         5.0|       NULL|Fred and Ginger, ...|This book is the ...|['Allan Scott', '...|
+|B00085T7O2|"""Catch 'em aliv...| NULL|                 0/1|                 5.0|       1.3417056E9|        NULL|       NULL|                NULL|                NULL| John R. Abernath...|
+|B00085T7O2|"""Catch 'em aliv...| NULL| terrible forward...|I found the book ...|              NULL|        NULL|       NULL|                NULL|                NULL| John R. Abernath...|
+|B0008CK87U|"""Gentlemen pref...| NULL|                 3/3|                 3.0|       1.1165472E9|        NULL|       NULL| with its love-se...| but its lightnes...| forging a new ar...|
+|B0008CK87U|"""Gentlemen pref...| NULL| a directness tha...|       not a cartoon|              NULL|        NULL|       NULL|                NULL|                NULL| forging a new ar...|
+|1891598015|"""Glory is a-com...| NULL|        AKNICOEAMLIE|                Dave|              NULL|         3.0|       NULL|Historical overvi...|I received my cop...|['Martha Peterson...|
+|1891598015|"""Glory is a-com...| NULL|       AJ197S8I2DAJX|           nauvoo_04|              NULL|         3.0|       NULL|Review from an In...|I borrowed this b...|['Martha Peterson...|
+|0967086302|"""I Do""...Weddi...| NULL|                NULL|                NULL|              NULL|         2.0|       NULL|Informative and a...|This book is help...|                NULL|
+|0967086302|"""I Do""...Weddi...| NULL|       A3ZGOSKOHFBY2|  """deshawpatton"""|              NULL|         4.0|       NULL|        Very Helpful|Thank you for thi...|                NULL|
+|0967086302|"""I Do""...Weddi...| NULL|      A1KUCLWJFY5DFT|      """emkemper"""|              NULL|         2.0|       NULL|frustrating and c...|This book, while ...|                NULL|
+|0967086302|"""I Do""...Weddi...| NULL|                NULL|                NULL|              NULL|         2.0|       NULL|Not Enough Info o...|This book may be ...|                NULL|
+|0967086302|"""I Do""...Weddi...| NULL|                NULL|                NULL|              NULL|         3.0|       NULL|Great for beginners!|This book was hel...|                NULL|
+|0967086302|"""I Do""...Weddi...| NULL|                NULL|                NULL|              NULL|         1.0|       NULL|I agree- Don't bo...|If you are lookin...|                NULL|
+|0967086302|"""I Do""...Weddi...| NULL|                NULL|                NULL|              NULL|         1.0|       NULL|Not useful at all...|This book was not...|                NULL|
+|0967086302|"""I Do""...Weddi...| NULL|       ATI9GJRMKWX67|    Fendi in Georgia|              NULL|         1.0|       NULL|   Very Disappointed|What a waste. The...|                NULL|
+|0967086302|"""I Do""...Weddi...| NULL|                NULL|                NULL|              NULL|         1.0|       NULL|&quot;I Do&quot;....|The book gives ve...|                NULL|
+|0967086302|"""I Do""...Weddi...| NULL|                NULL|                NULL|              NULL|         1.0|       NULL|Potential plagiar...|Ms. Chatman-Whitf...|                NULL|
+|0967086302|"""I Do""...Weddi...| NULL|       A3ZGOSKOHFBY2|  """deshawpatton"""|              NULL|         4.0|       NULL|        Very Helpful|Thank you for thi...|                NULL|
+|0967086302|"""I Do""...Weddi...| NULL|                NULL|                NULL|              NULL|         1.0|       NULL|        Don't Bother|Although this boo...|                NULL|
++----------+--------------------+-----+--------------------+--------------------+------------------+------------+-----------+--------------------+--------------------+--------------------+
+only showing top 20 rows
+
+Result count for query: 2999829
+Result count for query: 1337442
+Result count for query: 28362
+Result count for query: 113043
+Result count for query: 10
+Result count for query: 530665
+Result count for query: 554145
+Result count for query: 1241541
+Result count for query: 536229
+Result count for query: 0
+Starting epoch 2
+Result count for query: 2999829
+Result count for query: 1337442
+Result count for query: 28362
+Result count for query: 113043
+Result count for query: 10
+Result count for query: 530665
+Result count for query: 554145
+Result count for query: 1241541
+Result count for query: 536229
+Result count for query: 0
+Starting epoch 3
+Result count for query: 2999829
+Result count for query: 1337442
+Result count for query: 28362
+Result count for query: 113043
+Result count for query: 10
+Result count for query: 530665
+Result count for query: 554145
+Result count for query: 1241541
+Result count for query: 536229
+Result count for query: 0
+Starting epoch 4
+Result count for query: 2999829
+Result count for query: 1337442
+Result count for query: 28362
+Result count for query: 113043
+Result count for query: 10
+Result count for query: 530665
+Result count for query: 554145
+Result count for query: 1241541
+Result count for query: 536229
+Result count for query: 0
+Starting epoch 5
+Result count for query: 2999829
+Result count for query: 1337442
+Result count for query: 28362
+Result count for query: 113043
+Result count for query: 10
+Result count for query: 530665
+Result count for query: 554145
+Result count for query: 1241541
+Result count for query: 536229
+Result count for query: 0
+JOIN queries' 95% confidence interval for response times is (87.40544131618475, 97.79367996830013) seconds, with mean 92.59956064224244 seconds.
+Total execution time: 462.9998025894165 seconds
+
+C:\Users\LiamP\OneDrive\Desktop\533 scripts>SUCCESS: The process with PID 9312 (child process of PID 9788) has been terminated.
+SUCCESS: The process with PID 9788 (child process of PID 25236) has been terminated.
+SUCCESS: The process with PID 25236 (child process of PID 23068) has been terminated.

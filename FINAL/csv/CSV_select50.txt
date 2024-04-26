@@ -1,0 +1,139 @@
+C:\Users\LiamP\OneDrive\Desktop\533 scripts>python finalScsv50.py
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+24/04/25 18:55:26 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+24/04/25 18:55:28 WARN SizeEstimator: Failed to check whether UseCompressedOops is set; assuming yes
+root
+ |-- Id: string (nullable = true)
+ |-- Title: string (nullable = true)
+ |-- price: double (nullable = true)
+ |-- User_id: string (nullable = true)
+ |-- profileName: string (nullable = true)
+ |-- review/helpfulness: double (nullable = true)
+ |-- review/score: double (nullable = true)
+ |-- review/time: timestamp (nullable = true)
+ |-- review/summary: string (nullable = true)
+ |-- review/text: string (nullable = true)
+
+Starting epoch 1
++----------+--------------------+-----+--------------+--------------------+------------------+------------+-----------+--------------------+--------------------+
+|        Id|               Title|price|       User_id|         profileName|review/helpfulness|review/score|review/time|      review/summary|         review/text|
++----------+--------------------+-----+--------------+--------------------+------------------+------------+-----------+--------------------+--------------------+
+|0826414346|Dr. Seuss: Americ...| NULL|A30TK6U7DNS82R|       Kevin Killian|              NULL|         5.0|       NULL|   Really Enjoyed It|I don't care much...|
+|0826414346|Dr. Seuss: Americ...| NULL|A3UH4UZ4RSVO82|        John Granger|              NULL|         5.0|       NULL|Essential for eve...|"If people become...|
+|0826414346|Dr. Seuss: Americ...| NULL|A14OJS0VWMOSWO| Midwest Book Review|              NULL|         5.0|       NULL|A memorably excel...|Theodor Seuss Gie...|
+|0826414346|Dr. Seuss: Americ...| NULL|A2RSSXTDZDUSH4|           J. Squire|              NULL|         5.0|       NULL|Academia At It's ...|"When I recieved ...|
+|0826414346|Dr. Seuss: Americ...| NULL|A25MD5I2GUIW6W|"J. P. HIGBED ""b...|              NULL|         5.0|       NULL|And to think that...|"Trams (or any pu...|
+|0829814000|Wonderful Worship...| 19.4| AZ0IOBU20TBOP|  Rev. Pamela Tinnin|              NULL|         5.0|       NULL|Outstanding Resou...|I just finished t...|
+|0829814000|Wonderful Worship...| 19.4|A373VVEU6Z9M0N|Dr. Terry W. Dorsett|              NULL|         5.0|       NULL|Small Churches CA...|"Many small churc...|
+|0829814000|Wonderful Worship...| 19.4| AGKGOH65VTRR4|"Cynthia L. Lajoy...|              NULL|         5.0|       NULL|Not Just for Past...|I just finished r...|
+|0829814000|Wonderful Worship...| 19.4| A3OQWLU31BU1Y|       Maxwell Grant|              NULL|         5.0|       NULL|Small church past...|"I hadn't been a ...|
+|0595344550|Whispers of the W...|10.95|A1YLDZ3VHR6QPZ|               Clara|              NULL|         5.0|       NULL| Fall on your knee's|When I first read...|
+|0595344550|Whispers of the W...|10.95| ACO23CG8K8T77|               Tonya|              NULL|         5.0|       NULL|      Bravo Veronica|I read the review...|
+|0595344550|Whispers of the W...|10.95|A1VK81CRRC7MLM|"missyLou ""apple"""|              NULL|         5.0|       NULL|           Wonderful|"I really enjoyed...|
+|0595344550|Whispers of the W...|10.95|A2GKUH6OBW7POH|          julee glee|              NULL|         5.0|       NULL|           Awesome !|This was not a ty...|
+|0595344550|Whispers of the W...|10.95| A2BAF61XBWSLH|               Vanna|              NULL|         5.0|       NULL|      Glorious story|I loved Whisper o...|
+|0595344550|Whispers of the W...|10.95| A6OQ83FD8E2OC|         Read-Aholic|              NULL|         5.0|       NULL|         Loved it !!|I loved this book...|
+|0595344550|Whispers of the W...|10.95| AVRN9E6X9I6KF|              Karisa|              NULL|         5.0|       NULL|Five stars it not...|I thought this bo...|
+|0595344550|Whispers of the W...|10.95|A2YWUISTJ728T5|               darby|              NULL|         5.0|       NULL|    A FIVE STAR BOOK|I just finished r...|
+|0595344550|Whispers of the W...|10.95| ASEIU33YVKKWW|"Barbara Steinbac...|              NULL|         5.0|       NULL|Whispers of the W...|This was a easy t...|
+|0595344550|Whispers of the W...|10.95| AE5JROER4ERSO|              carrie|              NULL|         5.0|       NULL|The truth about W...|I have to say tha...|
+|0595344550|Whispers of the W...|10.95|A38P0UQN2C364Y|               nessy|              NULL|         5.0|       NULL|How could someone...|I am an avid read...|
++----------+--------------------+-----+--------------+--------------------+------------------+------------+-----------+--------------------+--------------------+
+only showing top 20 rows
+
+Result count for query: 1795795
+Result count for query: 333589
+Result count for query: 3000000
+Result count for query: 0
+Result count for query: 1
+Result count for query: 11
+Result count for query: 11
+Result count for query: 6786
+Result count for query: 201000
+Result count for query: 144874
+Starting epoch 2
+Result count for query: 1795795
+Result count for query: 333589
+Result count for query: 3000000
+Result count for query: 0
+Result count for query: 1
+Result count for query: 11
+Result count for query: 11
+Result count for query: 6786
+Result count for query: 201000
+Result count for query: 144874
+Starting epoch 3
+Result count for query: 1795795
+Result count for query: 333589
+Result count for query: 3000000
+Result count for query: 0
+Result count for query: 1
+Result count for query: 11
+Result count for query: 11
+Result count for query: 6786
+Result count for query: 201000
+Result count for query: 144874
+Starting epoch 4
+Result count for query: 1795795
+Result count for query: 333589
+Result count for query: 3000000
+Result count for query: 0
+Result count for query: 1
+Result count for query: 11
+Result count for query: 11
+Result count for query: 6786
+Result count for query: 201000
+Result count for query: 144874
+Starting epoch 5
+Result count for query: 1795795
+Result count for query: 333589
+Result count for query: 3000000
+Result count for query: 0
+Result count for query: 1
+Result count for query: 11
+Result count for query: 11
+Result count for query: 6786
+Result count for query: 201000
+Result count for query: 144874
+SELECT queries' 95% confidence interval for response times is (53.65474141277252, 57.23416058384002) seconds, with mean 55.44445099830627 seconds.
+Total execution time: 277.22525787353516 seconds
+
+C:\Users\LiamP\OneDrive\Desktop\533 scripts>24/04/25 19:00:15 ERROR ShutdownHookManager: Exception while deleting Spark temp dir: C:\Users\LiamP\AppData\Local\Temp\spark-f8887249-3c56-4b64-98c7-52d070124ddd\pyspark-46a4aa57-4e00-44db-81d6-e273977ae414
+java.nio.file.NoSuchFileException: C:\Users\LiamP\AppData\Local\Temp\spark-f8887249-3c56-4b64-98c7-52d070124ddd\pyspark-46a4aa57-4e00-44db-81d6-e273977ae414
+        at sun.nio.fs.WindowsException.translateToIOException(Unknown Source)
+        at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+        at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+        at sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(Unknown Source)
+        at sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(Unknown Source)
+        at sun.nio.fs.WindowsFileSystemProvider.readAttributes(Unknown Source)
+        at java.nio.file.Files.readAttributes(Unknown Source)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursivelyUsingJavaIO(JavaUtils.java:124)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursively(JavaUtils.java:117)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursively(JavaUtils.java:90)
+        at org.apache.spark.util.SparkFileUtils.deleteRecursively(SparkFileUtils.scala:121)
+        at org.apache.spark.util.SparkFileUtils.deleteRecursively$(SparkFileUtils.scala:120)
+        at org.apache.spark.util.Utils$.deleteRecursively(Utils.scala:1126)
+        at org.apache.spark.util.ShutdownHookManager$.$anonfun$new$4(ShutdownHookManager.scala:65)
+        at org.apache.spark.util.ShutdownHookManager$.$anonfun$new$4$adapted(ShutdownHookManager.scala:62)
+        at scala.collection.IndexedSeqOptimized.foreach(IndexedSeqOptimized.scala:36)
+        at scala.collection.IndexedSeqOptimized.foreach$(IndexedSeqOptimized.scala:33)
+        at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:198)
+        at org.apache.spark.util.ShutdownHookManager$.$anonfun$new$2(ShutdownHookManager.scala:62)
+        at org.apache.spark.util.SparkShutdownHook.run(ShutdownHookManager.scala:214)
+        at org.apache.spark.util.SparkShutdownHookManager.$anonfun$runAll$2(ShutdownHookManager.scala:188)
+        at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+        at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1928)
+        at org.apache.spark.util.SparkShutdownHookManager.$anonfun$runAll$1(ShutdownHookManager.scala:188)
+        at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+        at scala.util.Try$.apply(Try.scala:213)
+        at org.apache.spark.util.SparkShutdownHookManager.runAll(ShutdownHookManager.scala:188)
+        at org.apache.spark.util.SparkShutdownHookManager$$anon$2.run(ShutdownHookManager.scala:178)
+        at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+        at java.util.concurrent.FutureTask.run(Unknown Source)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+        at java.lang.Thread.run(Unknown Source)
+SUCCESS: The process with PID 25916 (child process of PID 18220) has been terminated.
+SUCCESS: The process with PID 18220 (child process of PID 17208) has been terminated.
+SUCCESS: The process with PID 17208 (child process of PID 27420) has been terminated.

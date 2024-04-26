@@ -1,0 +1,24 @@
+2024-04-25 17:54:11,155:INFO:JOIN Query executed in 8.719991683959961 seconds with 2999829 results
+2024-04-25 17:54:12,161:INFO:CPU Usage: 0.1%, Memory Usage: 62.1%
+2024-04-25 17:54:28,951:INFO:Closing down clientserver connection
+2024-04-25 18:00:07,152:INFO:JOIN Query executed in 8.95220160484314 seconds with 2999829 results
+2024-04-25 18:00:08,158:INFO:CPU Usage: 0.5%, Memory Usage: 61.7%
+2024-04-25 18:00:30,719:INFO:JOIN Query executed in 7.397796154022217 seconds with 1337442 results
+2024-04-25 18:00:31,725:INFO:CPU Usage: 0.3%, Memory Usage: 61.2%
+2024-04-25 18:00:40,342:INFO:JOIN Query executed in 8.617348909378052 seconds with 28362 results
+2024-04-25 18:00:41,349:INFO:CPU Usage: 0.4%, Memory Usage: 62.1%
+2024-04-25 18:00:49,626:INFO:JOIN Query executed in 8.275096893310547 seconds with 113043 results
+2024-04-25 18:00:50,630:INFO:CPU Usage: 0.3%, Memory Usage: 63.7%
+2024-04-25 18:00:57,711:INFO:JOIN Query executed in 7.079849004745483 seconds with 10 results
+2024-04-25 18:00:58,718:INFO:CPU Usage: 0.5%, Memory Usage: 63.3%
+2024-04-25 18:01:06,180:INFO:JOIN Query executed in 7.462229251861572 seconds with 530665 results
+2024-04-25 18:01:07,187:INFO:CPU Usage: 0.1%, Memory Usage: 63.1%
+2024-04-25 18:01:15,414:INFO:JOIN Query executed in 8.227513074874878 seconds with 554145 results
+2024-04-25 18:01:16,420:INFO:CPU Usage: 2.2%, Memory Usage: 63.2%
+2024-04-25 18:01:25,514:INFO:JOIN Query executed in 9.094568729400635 seconds with 1241541 results
+2024-04-25 18:01:26,520:INFO:CPU Usage: 1.9%, Memory Usage: 63.6%
+2024-04-25 18:01:34,945:INFO:JOIN Query executed in 8.42553973197937 seconds with 536229 results
+2024-04-25 18:01:35,950:INFO:CPU Usage: 0.3%, Memory Usage: 63.7%
+2024-04-25 18:01:42,776:INFO:JOIN Query executed in 6.826012372970581 seconds with 0 results
+2024-04-25 18:01:43,781:INFO:CPU Usage: 0.1%, Memory Usage: 63.5%
+2024-04-25 18:01:44,046:INFO:Closing down clientserver connection

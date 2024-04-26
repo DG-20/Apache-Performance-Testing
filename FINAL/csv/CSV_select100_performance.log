@@ -1,0 +1,201 @@
+2024-04-25 19:04:43,816:INFO:SELECT Query executed in 6.174522161483765 seconds with 1795795 results
+2024-04-25 19:04:44,821:INFO:CPU Usage: 0.0%, Memory Usage: 59.2%
+2024-04-25 19:04:50,304:INFO:SELECT Query executed in 5.249922752380371 seconds with 333589 results
+2024-04-25 19:04:51,309:INFO:CPU Usage: 0.2%, Memory Usage: 59.2%
+2024-04-25 19:04:53,076:INFO:SELECT Query executed in 1.7669942378997803 seconds with 3000000 results
+2024-04-25 19:04:54,082:INFO:CPU Usage: 0.4%, Memory Usage: 59.2%
+2024-04-25 19:04:54,148:INFO:SELECT Query executed in 0.0656900405883789 seconds with 0 results
+2024-04-25 19:04:55,153:INFO:CPU Usage: 0.0%, Memory Usage: 59.1%
+2024-04-25 19:05:00,467:INFO:SELECT Query executed in 5.3138792514801025 seconds with 1 results
+2024-04-25 19:05:01,473:INFO:CPU Usage: 0.6%, Memory Usage: 59.1%
+2024-04-25 19:05:07,289:INFO:SELECT Query executed in 5.815950393676758 seconds with 11 results
+2024-04-25 19:05:08,294:INFO:CPU Usage: 0.9%, Memory Usage: 59.5%
+2024-04-25 19:05:13,808:INFO:SELECT Query executed in 5.513285875320435 seconds with 11 results
+2024-04-25 19:05:14,814:INFO:CPU Usage: 0.1%, Memory Usage: 60.0%
+2024-04-25 19:05:19,943:INFO:SELECT Query executed in 5.129680395126343 seconds with 6786 results
+2024-04-25 19:05:20,948:INFO:CPU Usage: 2.4%, Memory Usage: 60.6%
+2024-04-25 19:05:26,442:INFO:SELECT Query executed in 5.492208242416382 seconds with 201000 results
+2024-04-25 19:05:27,447:INFO:CPU Usage: 0.5%, Memory Usage: 60.5%
+2024-04-25 19:05:34,064:INFO:SELECT Query executed in 6.617051362991333 seconds with 144874 results
+2024-04-25 19:05:35,069:INFO:CPU Usage: 0.0%, Memory Usage: 60.1%
+2024-04-25 19:05:40,224:INFO:SELECT Query executed in 5.154241561889648 seconds with 1795795 results
+2024-04-25 19:05:41,229:INFO:CPU Usage: 0.1%, Memory Usage: 60.1%
+2024-04-25 19:05:46,145:INFO:SELECT Query executed in 4.915034294128418 seconds with 333589 results
+2024-04-25 19:05:47,150:INFO:CPU Usage: 0.0%, Memory Usage: 60.0%
+2024-04-25 19:05:48,705:INFO:SELECT Query executed in 1.555394172668457 seconds with 3000000 results
+2024-04-25 19:05:49,710:INFO:CPU Usage: 1.7%, Memory Usage: 60.0%
+2024-04-25 19:05:49,766:INFO:SELECT Query executed in 0.054517507553100586 seconds with 0 results
+2024-04-25 19:05:50,771:INFO:CPU Usage: 0.0%, Memory Usage: 59.9%
+2024-04-25 19:05:55,619:INFO:SELECT Query executed in 4.847564697265625 seconds with 1 results
+2024-04-25 19:05:56,624:INFO:CPU Usage: 0.0%, Memory Usage: 59.9%
+2024-04-25 19:06:02,051:INFO:SELECT Query executed in 5.427369832992554 seconds with 11 results
+2024-04-25 19:06:03,055:INFO:CPU Usage: 0.0%, Memory Usage: 59.9%
+2024-04-25 19:06:08,473:INFO:SELECT Query executed in 5.417402744293213 seconds with 11 results
+2024-04-25 19:06:09,479:INFO:CPU Usage: 0.6%, Memory Usage: 59.9%
+2024-04-25 19:06:14,402:INFO:SELECT Query executed in 4.922773838043213 seconds with 6786 results
+2024-04-25 19:06:15,408:INFO:CPU Usage: 0.6%, Memory Usage: 60.0%
+2024-04-25 19:06:20,709:INFO:SELECT Query executed in 5.30040717124939 seconds with 201000 results
+2024-04-25 19:06:21,715:INFO:CPU Usage: 0.6%, Memory Usage: 60.0%
+2024-04-25 19:06:28,247:INFO:SELECT Query executed in 6.532785177230835 seconds with 144874 results
+2024-04-25 19:06:29,253:INFO:CPU Usage: 0.0%, Memory Usage: 60.0%
+2024-04-25 19:06:34,439:INFO:SELECT Query executed in 5.184972286224365 seconds with 1795795 results
+2024-04-25 19:06:35,445:INFO:CPU Usage: 0.2%, Memory Usage: 60.0%
+2024-04-25 19:06:40,372:INFO:SELECT Query executed in 4.926943778991699 seconds with 333589 results
+2024-04-25 19:06:41,377:INFO:CPU Usage: 0.2%, Memory Usage: 59.9%
+2024-04-25 19:06:42,936:INFO:SELECT Query executed in 1.5588176250457764 seconds with 3000000 results
+2024-04-25 19:06:43,941:INFO:CPU Usage: 0.5%, Memory Usage: 59.9%
+2024-04-25 19:06:43,992:INFO:SELECT Query executed in 0.05057930946350098 seconds with 0 results
+2024-04-25 19:06:44,997:INFO:CPU Usage: 0.0%, Memory Usage: 59.9%
+2024-04-25 19:06:49,844:INFO:SELECT Query executed in 4.846806526184082 seconds with 1 results
+2024-04-25 19:06:50,849:INFO:CPU Usage: 0.0%, Memory Usage: 60.0%
+2024-04-25 19:06:56,257:INFO:SELECT Query executed in 5.407975435256958 seconds with 11 results
+2024-04-25 19:06:57,262:INFO:CPU Usage: 0.3%, Memory Usage: 59.9%
+2024-04-25 19:07:02,674:INFO:SELECT Query executed in 5.4112327098846436 seconds with 11 results
+2024-04-25 19:07:03,679:INFO:CPU Usage: 0.6%, Memory Usage: 60.2%
+2024-04-25 19:07:08,571:INFO:SELECT Query executed in 4.89150071144104 seconds with 6786 results
+2024-04-25 19:07:09,576:INFO:CPU Usage: 0.4%, Memory Usage: 60.2%
+2024-04-25 19:07:14,905:INFO:SELECT Query executed in 5.3286333084106445 seconds with 201000 results
+2024-04-25 19:07:15,910:INFO:CPU Usage: 0.4%, Memory Usage: 59.9%
+2024-04-25 19:07:22,422:INFO:SELECT Query executed in 6.51244330406189 seconds with 144874 results
+2024-04-25 19:07:23,428:INFO:CPU Usage: 0.0%, Memory Usage: 59.8%
+2024-04-25 19:07:28,628:INFO:SELECT Query executed in 5.199031829833984 seconds with 1795795 results
+2024-04-25 19:07:29,633:INFO:CPU Usage: 0.2%, Memory Usage: 59.8%
+2024-04-25 19:07:34,520:INFO:SELECT Query executed in 4.887102842330933 seconds with 333589 results
+2024-04-25 19:07:35,526:INFO:CPU Usage: 0.0%, Memory Usage: 59.9%
+2024-04-25 19:07:37,074:INFO:SELECT Query executed in 1.5477423667907715 seconds with 3000000 results
+2024-04-25 19:07:38,080:INFO:CPU Usage: 0.2%, Memory Usage: 59.8%
+2024-04-25 19:07:38,133:INFO:SELECT Query executed in 0.05301189422607422 seconds with 0 results
+2024-04-25 19:07:39,137:INFO:CPU Usage: 0.0%, Memory Usage: 59.9%
+2024-04-25 19:07:43,986:INFO:SELECT Query executed in 4.848873615264893 seconds with 1 results
+2024-04-25 19:07:44,993:INFO:CPU Usage: 0.1%, Memory Usage: 60.1%
+2024-04-25 19:07:50,428:INFO:SELECT Query executed in 5.435765027999878 seconds with 11 results
+2024-04-25 19:07:51,433:INFO:CPU Usage: 0.0%, Memory Usage: 60.0%
+2024-04-25 19:07:56,851:INFO:SELECT Query executed in 5.4169840812683105 seconds with 11 results
+2024-04-25 19:07:57,857:INFO:CPU Usage: 0.1%, Memory Usage: 60.0%
+2024-04-25 19:08:02,738:INFO:SELECT Query executed in 4.880956411361694 seconds with 6786 results
+2024-04-25 19:08:03,743:INFO:CPU Usage: 0.2%, Memory Usage: 60.0%
+2024-04-25 19:08:09,004:INFO:SELECT Query executed in 5.261845111846924 seconds with 201000 results
+2024-04-25 19:08:10,010:INFO:CPU Usage: 0.1%, Memory Usage: 60.0%
+2024-04-25 19:08:16,520:INFO:SELECT Query executed in 6.508594036102295 seconds with 144874 results
+2024-04-25 19:08:17,524:INFO:CPU Usage: 0.4%, Memory Usage: 60.0%
+2024-04-25 19:08:22,672:INFO:SELECT Query executed in 5.1470911502838135 seconds with 1795795 results
+2024-04-25 19:08:23,678:INFO:CPU Usage: 0.2%, Memory Usage: 60.0%
+2024-04-25 19:08:28,537:INFO:SELECT Query executed in 4.858774662017822 seconds with 333589 results
+2024-04-25 19:08:29,542:INFO:CPU Usage: 0.2%, Memory Usage: 60.0%
+2024-04-25 19:08:31,093:INFO:SELECT Query executed in 1.5498464107513428 seconds with 3000000 results
+2024-04-25 19:08:32,098:INFO:CPU Usage: 0.3%, Memory Usage: 60.0%
+2024-04-25 19:08:32,147:INFO:SELECT Query executed in 0.04910540580749512 seconds with 0 results
+2024-04-25 19:08:33,152:INFO:CPU Usage: 0.0%, Memory Usage: 60.0%
+2024-04-25 19:08:37,954:INFO:SELECT Query executed in 4.802545547485352 seconds with 1 results
+2024-04-25 19:08:38,959:INFO:CPU Usage: 0.0%, Memory Usage: 60.0%
+2024-04-25 19:08:44,426:INFO:SELECT Query executed in 5.46620774269104 seconds with 11 results
+2024-04-25 19:08:45,431:INFO:CPU Usage: 0.0%, Memory Usage: 60.2%
+2024-04-25 19:08:50,860:INFO:SELECT Query executed in 5.42937159538269 seconds with 11 results
+2024-04-25 19:08:51,865:INFO:CPU Usage: 0.3%, Memory Usage: 60.3%
+2024-04-25 19:08:56,754:INFO:SELECT Query executed in 4.888181209564209 seconds with 6786 results
+2024-04-25 19:08:57,757:INFO:CPU Usage: 0.0%, Memory Usage: 60.2%
+2024-04-25 19:09:02,932:INFO:SELECT Query executed in 5.17479133605957 seconds with 201000 results
+2024-04-25 19:09:03,936:INFO:CPU Usage: 0.5%, Memory Usage: 60.1%
+2024-04-25 19:09:10,549:INFO:SELECT Query executed in 6.613328695297241 seconds with 144874 results
+2024-04-25 19:09:11,554:INFO:CPU Usage: 1.1%, Memory Usage: 60.2%
+2024-04-25 19:09:16,868:INFO:SELECT Query executed in 5.312246322631836 seconds with 1795795 results
+2024-04-25 19:09:17,873:INFO:CPU Usage: 0.5%, Memory Usage: 58.7%
+2024-04-25 19:09:22,698:INFO:SELECT Query executed in 4.8244452476501465 seconds with 333589 results
+2024-04-25 19:09:23,703:INFO:CPU Usage: 0.5%, Memory Usage: 58.7%
+2024-04-25 19:09:25,404:INFO:SELECT Query executed in 1.7005479335784912 seconds with 3000000 results
+2024-04-25 19:09:26,409:INFO:CPU Usage: 0.6%, Memory Usage: 59.0%
+2024-04-25 19:09:26,461:INFO:SELECT Query executed in 0.05097055435180664 seconds with 0 results
+2024-04-25 19:09:27,466:INFO:CPU Usage: 0.9%, Memory Usage: 58.9%
+2024-04-25 19:09:32,270:INFO:SELECT Query executed in 4.804464101791382 seconds with 1 results
+2024-04-25 19:09:33,276:INFO:CPU Usage: 0.1%, Memory Usage: 58.9%
+2024-04-25 19:09:38,602:INFO:SELECT Query executed in 5.326152086257935 seconds with 11 results
+2024-04-25 19:09:39,607:INFO:CPU Usage: 0.2%, Memory Usage: 58.9%
+2024-04-25 19:09:45,002:INFO:SELECT Query executed in 5.394466876983643 seconds with 11 results
+2024-04-25 19:09:46,007:INFO:CPU Usage: 0.1%, Memory Usage: 59.0%
+2024-04-25 19:09:50,879:INFO:SELECT Query executed in 4.87237286567688 seconds with 6786 results
+2024-04-25 19:09:51,884:INFO:CPU Usage: 0.2%, Memory Usage: 59.0%
+2024-04-25 19:09:57,099:INFO:SELECT Query executed in 5.215178489685059 seconds with 201000 results
+2024-04-25 19:09:58,104:INFO:CPU Usage: 0.1%, Memory Usage: 58.9%
+2024-04-25 19:10:04,618:INFO:SELECT Query executed in 6.513124465942383 seconds with 144874 results
+2024-04-25 19:10:05,623:INFO:CPU Usage: 0.2%, Memory Usage: 58.9%
+2024-04-25 19:10:10,832:INFO:SELECT Query executed in 5.207939386367798 seconds with 1795795 results
+2024-04-25 19:10:11,837:INFO:CPU Usage: 0.3%, Memory Usage: 58.9%
+2024-04-25 19:10:16,583:INFO:SELECT Query executed in 4.74650502204895 seconds with 333589 results
+2024-04-25 19:10:17,590:INFO:CPU Usage: 0.0%, Memory Usage: 58.9%
+2024-04-25 19:10:19,118:INFO:SELECT Query executed in 1.528456687927246 seconds with 3000000 results
+2024-04-25 19:10:20,123:INFO:CPU Usage: 0.0%, Memory Usage: 58.9%
+2024-04-25 19:10:20,175:INFO:SELECT Query executed in 0.05151987075805664 seconds with 0 results
+2024-04-25 19:10:21,180:INFO:CPU Usage: 0.2%, Memory Usage: 58.9%
+2024-04-25 19:10:25,956:INFO:SELECT Query executed in 4.774905443191528 seconds with 1 results
+2024-04-25 19:10:26,962:INFO:CPU Usage: 0.0%, Memory Usage: 58.9%
+2024-04-25 19:10:32,436:INFO:SELECT Query executed in 5.471285104751587 seconds with 11 results
+2024-04-25 19:10:33,440:INFO:CPU Usage: 0.1%, Memory Usage: 58.8%
+2024-04-25 19:10:38,843:INFO:SELECT Query executed in 5.403214454650879 seconds with 11 results
+2024-04-25 19:10:39,848:INFO:CPU Usage: 0.0%, Memory Usage: 58.8%
+2024-04-25 19:10:44,682:INFO:SELECT Query executed in 4.834049940109253 seconds with 6786 results
+2024-04-25 19:10:45,687:INFO:CPU Usage: 0.1%, Memory Usage: 58.8%
+2024-04-25 19:10:50,938:INFO:SELECT Query executed in 5.251149415969849 seconds with 201000 results
+2024-04-25 19:10:51,943:INFO:CPU Usage: 0.5%, Memory Usage: 58.8%
+2024-04-25 19:10:58,434:INFO:SELECT Query executed in 6.491573095321655 seconds with 144874 results
+2024-04-25 19:10:59,439:INFO:CPU Usage: 0.1%, Memory Usage: 58.8%
+2024-04-25 19:11:04,615:INFO:SELECT Query executed in 5.1749138832092285 seconds with 1795795 results
+2024-04-25 19:11:05,620:INFO:CPU Usage: 0.2%, Memory Usage: 58.8%
+2024-04-25 19:11:10,510:INFO:SELECT Query executed in 4.888712406158447 seconds with 333589 results
+2024-04-25 19:11:11,515:INFO:CPU Usage: 1.2%, Memory Usage: 58.9%
+2024-04-25 19:11:13,051:INFO:SELECT Query executed in 1.5358483791351318 seconds with 3000000 results
+2024-04-25 19:11:14,057:INFO:CPU Usage: 0.1%, Memory Usage: 58.9%
+2024-04-25 19:11:14,104:INFO:SELECT Query executed in 0.0475161075592041 seconds with 0 results
+2024-04-25 19:11:15,109:INFO:CPU Usage: 0.3%, Memory Usage: 58.9%
+2024-04-25 19:11:19,982:INFO:SELECT Query executed in 4.872810363769531 seconds with 1 results
+2024-04-25 19:11:20,988:INFO:CPU Usage: 0.0%, Memory Usage: 58.8%
+2024-04-25 19:11:26,370:INFO:SELECT Query executed in 5.382877826690674 seconds with 11 results
+2024-04-25 19:11:27,376:INFO:CPU Usage: 0.0%, Memory Usage: 58.9%
+2024-04-25 19:11:32,745:INFO:SELECT Query executed in 5.36967921257019 seconds with 11 results
+2024-04-25 19:11:33,751:INFO:CPU Usage: 2.1%, Memory Usage: 58.9%
+2024-04-25 19:11:38,669:INFO:SELECT Query executed in 4.918079614639282 seconds with 6786 results
+2024-04-25 19:11:39,674:INFO:CPU Usage: 0.1%, Memory Usage: 58.8%
+2024-04-25 19:11:44,926:INFO:SELECT Query executed in 5.2515709400177 seconds with 201000 results
+2024-04-25 19:11:45,930:INFO:CPU Usage: 0.1%, Memory Usage: 58.9%
+2024-04-25 19:11:52,456:INFO:SELECT Query executed in 6.526152610778809 seconds with 144874 results
+2024-04-25 19:11:53,461:INFO:CPU Usage: 0.1%, Memory Usage: 58.8%
+2024-04-25 19:11:58,652:INFO:SELECT Query executed in 5.1902618408203125 seconds with 1795795 results
+2024-04-25 19:11:59,658:INFO:CPU Usage: 0.0%, Memory Usage: 58.9%
+2024-04-25 19:12:04,529:INFO:SELECT Query executed in 4.86996865272522 seconds with 333589 results
+2024-04-25 19:12:05,534:INFO:CPU Usage: 0.1%, Memory Usage: 59.0%
+2024-04-25 19:12:07,123:INFO:SELECT Query executed in 1.5886778831481934 seconds with 3000000 results
+2024-04-25 19:12:08,129:INFO:CPU Usage: 0.2%, Memory Usage: 58.9%
+2024-04-25 19:12:08,178:INFO:SELECT Query executed in 0.0490117073059082 seconds with 0 results
+2024-04-25 19:12:09,184:INFO:CPU Usage: 0.0%, Memory Usage: 58.9%
+2024-04-25 19:12:13,993:INFO:SELECT Query executed in 4.808537483215332 seconds with 1 results
+2024-04-25 19:12:14,998:INFO:CPU Usage: 0.2%, Memory Usage: 58.9%
+2024-04-25 19:12:20,430:INFO:SELECT Query executed in 5.432522773742676 seconds with 11 results
+2024-04-25 19:12:21,436:INFO:CPU Usage: 0.4%, Memory Usage: 58.9%
+2024-04-25 19:12:26,785:INFO:SELECT Query executed in 5.348401069641113 seconds with 11 results
+2024-04-25 19:12:27,790:INFO:CPU Usage: 0.1%, Memory Usage: 58.9%
+2024-04-25 19:12:32,654:INFO:SELECT Query executed in 4.864600419998169 seconds with 6786 results
+2024-04-25 19:12:33,659:INFO:CPU Usage: 0.4%, Memory Usage: 58.9%
+2024-04-25 19:12:38,810:INFO:SELECT Query executed in 5.151108503341675 seconds with 201000 results
+2024-04-25 19:12:39,818:INFO:CPU Usage: 0.2%, Memory Usage: 58.9%
+2024-04-25 19:12:46,392:INFO:SELECT Query executed in 6.573113918304443 seconds with 144874 results
+2024-04-25 19:12:47,397:INFO:CPU Usage: 0.0%, Memory Usage: 58.9%
+2024-04-25 19:12:52,583:INFO:SELECT Query executed in 5.185589075088501 seconds with 1795795 results
+2024-04-25 19:12:53,589:INFO:CPU Usage: 0.3%, Memory Usage: 59.1%
+2024-04-25 19:12:58,508:INFO:SELECT Query executed in 4.918460130691528 seconds with 333589 results
+2024-04-25 19:12:59,512:INFO:CPU Usage: 0.2%, Memory Usage: 59.0%
+2024-04-25 19:13:01,053:INFO:SELECT Query executed in 1.5406544208526611 seconds with 3000000 results
+2024-04-25 19:13:02,058:INFO:CPU Usage: 0.3%, Memory Usage: 59.0%
+2024-04-25 19:13:02,115:INFO:SELECT Query executed in 0.05751752853393555 seconds with 0 results
+2024-04-25 19:13:03,120:INFO:CPU Usage: 0.1%, Memory Usage: 59.0%
+2024-04-25 19:13:07,950:INFO:SELECT Query executed in 4.828325510025024 seconds with 1 results
+2024-04-25 19:13:08,954:INFO:CPU Usage: 0.0%, Memory Usage: 59.0%
+2024-04-25 19:13:14,446:INFO:SELECT Query executed in 5.491023302078247 seconds with 11 results
+2024-04-25 19:13:15,451:INFO:CPU Usage: 0.2%, Memory Usage: 59.0%
+2024-04-25 19:13:20,765:INFO:SELECT Query executed in 5.3135106563568115 seconds with 11 results
+2024-04-25 19:13:21,770:INFO:CPU Usage: 0.3%, Memory Usage: 59.0%
+2024-04-25 19:13:26,744:INFO:SELECT Query executed in 4.973206043243408 seconds with 6786 results
+2024-04-25 19:13:27,748:INFO:CPU Usage: 0.1%, Memory Usage: 59.0%
+2024-04-25 19:13:32,926:INFO:SELECT Query executed in 5.178223609924316 seconds with 201000 results
+2024-04-25 19:13:33,932:INFO:CPU Usage: 0.1%, Memory Usage: 59.0%
+2024-04-25 19:13:40,531:INFO:SELECT Query executed in 6.599519968032837 seconds with 144874 results
+2024-04-25 19:13:41,536:INFO:CPU Usage: 0.1%, Memory Usage: 59.1%
+2024-04-25 19:13:41,965:INFO:Closing down clientserver connection
