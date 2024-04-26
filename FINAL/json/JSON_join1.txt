@@ -1,0 +1,69 @@
+C:\Users\LiamP\OneDrive\Desktop\533 scripts>python finalJjson1.py
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+24/04/25 19:15:56 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+24/04/25 19:15:58 WARN SizeEstimator: Failed to check whether UseCompressedOops is set; assuming yes
+Showing helpful column structure:
++----------------------------+
+|helpful                     |
++----------------------------+
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
++----------------------------+
+only showing top 20 rows
+
+root
+ |-- helpful: array (nullable = true)
+ |    |-- element: array (containsNull = false)
+ |    |    |-- element: integer (containsNull = true)
+ |-- movie: string (nullable = true)
+ |-- rating: double (nullable = true)
+ |-- review_date: date (nullable = true)
+ |-- review_detail: string (nullable = true)
+ |-- review_id: string (nullable = true)
+ |-- review_summary: string (nullable = true)
+ |-- reviewer: string (nullable = true)
+ |-- spoiler_tag: integer (nullable = true)
+
+Starting epoch 1
++--------+--------------------+--------------------+--------+--------+
+|reviewer|             movie_a|             movie_b|rating_a|rating_b|
++--------+--------------------+--------------------+--------+--------+
+|00Yasser|And Justice for A...|Westworld: Crisis...|     9.0|     8.0|
+|00Yasser|And Justice for A...|    Dark (2017–2020)|     9.0|    10.0|
+|00Yasser|And Justice for A...|Spartacus: Empty ...|     9.0|     8.0|
+|00Yasser|And Justice for A...|Spartacus: Sacram...|     9.0|     9.0|
+|00Yasser|And Justice for A...|Big Little Lies: ...|     9.0|     9.0|
+|00Yasser|And Justice for A...|Big Little Lies: ...|     9.0|     8.0|
+|00Yasser|And Justice for A...|The Sopranos: Whi...|     9.0|     9.0|
+|00Yasser|And Justice for A...|Big Little Lies: ...|     9.0|     9.0|
+|00Yasser|And Justice for A...|        Tenet (2020)|     9.0|     8.0|
+|00Yasser|And Justice for A...|The Boys: Over th...|     9.0|     9.0|
++--------+--------------------+--------------------+--------+--------+
+
+Result count for query: 10
+Total execution time: 19.60044503211975 seconds
+
+C:\Users\LiamP\OneDrive\Desktop\533 scripts>SUCCESS: The process with PID 27368 (child process of PID 26316) has been terminated.
+SUCCESS: The process with PID 26316 (child process of PID 26812) has been terminated.
+SUCCESS: The process with PID 26812 (child process of PID 292) has been terminated.
+
+CONSOLE
