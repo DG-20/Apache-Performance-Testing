@@ -1,0 +1,135 @@
+C:\Users\LiamP\OneDrive\Desktop\533 scripts>python finalSjson100.py
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+24/04/25 20:35:57 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+24/04/25 20:36:00 WARN SizeEstimator: Failed to check whether UseCompressedOops is set; assuming yes
+Starting epoch 1
++---------------------------+------------+
+|                      movie|review_count|
++---------------------------+------------+
+|         Dil Bechara (2020)|        7633|
+|       Wonder Woman 1984...|        6810|
+|                小丑 (2019)|        6363|
+|STAR WARS：天行者的崛起 ...|        5147|
+|              Laxmii (2020)|        4748|
+|       Gunjan Saxena: Th...|        4336|
+|       Supernatural: Car...|        3624|
+|        Coolie No. 1 (2020)|        3319|
+|               Tenet (2020)|        3122|
+|       Scam 1992: The Ha...|        3044|
++---------------------------+------------+
+
+Result count for query: 10
+Result count for query: 1170
+Result count for query: 10
+Result count for query: 834
+Result count for query: 10
+Result count for query: 10
+Result count for query: 2106
+Result count for query: 10
+Result count for query: 10
+Result count for query: 11
+Starting epoch 2
+Result count for query: 10
+Result count for query: 1170
+Result count for query: 10
+Result count for query: 834
+Result count for query: 10
+Result count for query: 10
+Result count for query: 2106
+Result count for query: 10
+Result count for query: 10
+Result count for query: 11
+Starting epoch 3
+Result count for query: 10
+Result count for query: 1170
+Result count for query: 10
+Result count for query: 834
+Result count for query: 10
+Result count for query: 10
+Result count for query: 2106
+Result count for query: 10
+Result count for query: 10
+Result count for query: 11
+Starting epoch 4
+Result count for query: 10
+Result count for query: 1170
+Result count for query: 10
+Result count for query: 834
+Result count for query: 10
+Result count for query: 10
+Result count for query: 2106
+Result count for query: 10
+Result count for query: 10
+Result count for query: 11
+Starting epoch 5
+Result count for query: 10
+Result count for query: 1170
+Result count for query: 10
+Result count for query: 834
+Result count for query: 10
+Result count for query: 10
+Result count for query: 2106
+Result count for query: 10
+Result count for query: 10
+Result count for query: 11
+Starting epoch 6
+Result count for query: 10
+Result count for query: 1170
+Result count for query: 10
+Result count for query: 834
+Result count for query: 10
+Result count for query: 10
+Result count for query: 2106
+Result count for query: 10
+Result count for query: 10
+Result count for query: 11
+Starting epoch 7
+Result count for query: 10
+Result count for query: 1170
+Result count for query: 10
+Result count for query: 834
+Result count for query: 10
+Result count for query: 10
+Result count for query: 2106
+Result count for query: 10
+Result count for query: 10
+Result count for query: 11
+Starting epoch 8
+Result count for query: 10
+Result count for query: 1170
+Result count for query: 10
+Result count for query: 834
+Result count for query: 10
+Result count for query: 10
+Result count for query: 2106
+Result count for query: 10
+Result count for query: 10
+Result count for query: 11
+Starting epoch 9
+Result count for query: 10
+Result count for query: 1170
+Result count for query: 10
+Result count for query: 834
+Result count for query: 10
+Result count for query: 10
+Result count for query: 2106
+Result count for query: 10
+Result count for query: 10
+Result count for query: 11
+Starting epoch 10
+Result count for query: 10
+Result count for query: 1170
+Result count for query: 10
+Result count for query: 834
+Result count for query: 10
+Result count for query: 10
+Result count for query: 2106
+Result count for query: 10
+Result count for query: 10
+Result count for query: 11
+Total execution time: 1122.9335465431213 seconds
+
+C:\Users\LiamP\OneDrive\Desktop\533 scripts>SUCCESS: The process with PID 20996 (child process of PID 26044) has been terminated.
+SUCCESS: The process with PID 26044 (child process of PID 7696) has been terminated.
+SUCCESS: The process with PID 7696 (child process of PID 16192) has been terminated.

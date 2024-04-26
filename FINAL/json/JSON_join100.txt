@@ -1,0 +1,220 @@
+C:\Users\LiamP\OneDrive\Desktop\533 scripts>python finaljjson100.py
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+24/04/25 19:48:08 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+24/04/25 19:48:10 WARN SizeEstimator: Failed to check whether UseCompressedOops is set; assuming yes
+Showing helpful column structure:
++----------------------------+
+|helpful                     |
++----------------------------+
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
+|[[NULL, NULL], [NULL, NULL]]|
++----------------------------+
+only showing top 20 rows
+
+root
+ |-- helpful: array (nullable = true)
+ |    |-- element: array (containsNull = false)
+ |    |    |-- element: integer (containsNull = true)
+ |-- movie: string (nullable = true)
+ |-- rating: double (nullable = true)
+ |-- review_date: date (nullable = true)
+ |-- review_detail: string (nullable = true)
+ |-- review_id: string (nullable = true)
+ |-- review_summary: string (nullable = true)
+ |-- reviewer: string (nullable = true)
+ |-- spoiler_tag: integer (nullable = true)
+
+Starting epoch 1
++--------+--------------------+--------------------+--------+--------+
+|reviewer|             movie_a|             movie_b|rating_a|rating_b|
++--------+--------------------+--------------------+--------+--------+
+|00Yasser|And Justice for A...|Westworld: Crisis...|     9.0|     8.0|
+|00Yasser|And Justice for A...|    Dark (2017–2020)|     9.0|    10.0|
+|00Yasser|And Justice for A...|Spartacus: Empty ...|     9.0|     8.0|
+|00Yasser|And Justice for A...|Spartacus: Sacram...|     9.0|     9.0|
+|00Yasser|And Justice for A...|Big Little Lies: ...|     9.0|     9.0|
+|00Yasser|And Justice for A...|Big Little Lies: ...|     9.0|     8.0|
+|00Yasser|And Justice for A...|The Sopranos: Whi...|     9.0|     9.0|
+|00Yasser|And Justice for A...|Big Little Lies: ...|     9.0|     9.0|
+|00Yasser|And Justice for A...|        Tenet (2020)|     9.0|     8.0|
+|00Yasser|And Justice for A...|The Boys: Over th...|     9.0|     9.0|
++--------+--------------------+--------------------+--------+--------+
+
+Result count for query: 10
+Result count for query: 10
+Result count for query: 10
+Result count for query: 0
+Result count for query: 10
+Starting epoch 2
+Result count for query: 10
+Result count for query: 10
+Result count for query: 10
+Result count for query: 0
+Result count for query: 10
+Starting epoch 3
+Result count for query: 10
+Result count for query: 10
+Result count for query: 10
+Result count for query: 0
+Result count for query: 10
+Starting epoch 4
+Result count for query: 10
+Result count for query: 10
+Result count for query: 10
+Result count for query: 0
+Result count for query: 10
+Starting epoch 5
+Result count for query: 10
+Result count for query: 10
+Result count for query: 10
+Result count for query: 0
+Result count for query: 10
+Starting epoch 6
+Result count for query: 10
+Result count for query: 10
+Result count for query: 10
+Result count for query: 0
+Result count for query: 10
+Starting epoch 7
+Result count for query: 10
+Result count for query: 10
+Result count for query: 10
+Result count for query: 0
+Result count for query: 10
+Starting epoch 8
+Result count for query: 10
+Result count for query: 10
+Result count for query: 10
+Result count for query: 0
+Result count for query: 10
+Starting epoch 9
+Result count for query: 10
+Result count for query: 10
+Result count for query: 10
+Result count for query: 0
+Result count for query: 10
+Starting epoch 10
+Result count for query: 10
+Result count for query: 10
+Result count for query: 10
+Result count for query: 0
+Result count for query: 10
+Starting epoch 11
+Result count for query: 10
+Result count for query: 10
+Result count for query: 10
+Result count for query: 0
+Result count for query: 10
+Starting epoch 12
+Result count for query: 10
+Result count for query: 10
+Result count for query: 10
+Result count for query: 0
+Result count for query: 10
+Starting epoch 13
+Result count for query: 10
+Result count for query: 10
+Result count for query: 10
+Result count for query: 0
+Result count for query: 10
+Starting epoch 14
+Result count for query: 10
+Result count for query: 10
+Result count for query: 10
+Result count for query: 0
+Result count for query: 10
+Starting epoch 15
+Result count for query: 10
+Result count for query: 10
+Result count for query: 10
+Result count for query: 0
+Result count for query: 10
+Starting epoch 16
+Result count for query: 10
+Result count for query: 10
+Result count for query: 10
+Result count for query: 0
+Result count for query: 10
+Starting epoch 17
+Result count for query: 10
+Result count for query: 10
+Result count for query: 10
+Result count for query: 0
+Result count for query: 10
+Starting epoch 18
+Result count for query: 10
+Result count for query: 10
+Result count for query: 10
+Result count for query: 0
+Result count for query: 10
+Starting epoch 19
+Result count for query: 10
+Result count for query: 10
+Result count for query: 10
+Result count for query: 0
+Result count for query: 10
+Starting epoch 20
+Result count for query: 10
+Result count for query: 10
+Result count for query: 10
+Result count for query: 0
+Result count for query: 10
+Total execution time: 1663.2809212207794 seconds
+
+C:\Users\LiamP\OneDrive\Desktop\533 scripts>24/04/25 20:16:08 ERROR ShutdownHookManager: Exception while deleting Spark temp dir: C:\Users\LiamP\AppData\Local\Temp\spark-62885fd6-b528-4018-81e1-28470f0cd7b7\pyspark-51393579-c692-4e9a-86c9-8ebc2a1fe4f8
+java.nio.file.NoSuchFileException: C:\Users\LiamP\AppData\Local\Temp\spark-62885fd6-b528-4018-81e1-28470f0cd7b7\pyspark-51393579-c692-4e9a-86c9-8ebc2a1fe4f8
+        at sun.nio.fs.WindowsException.translateToIOException(Unknown Source)
+        at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+        at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+        at sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(Unknown Source)
+        at sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(Unknown Source)
+        at sun.nio.fs.WindowsFileSystemProvider.readAttributes(Unknown Source)
+        at java.nio.file.Files.readAttributes(Unknown Source)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursivelyUsingJavaIO(JavaUtils.java:124)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursively(JavaUtils.java:117)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursively(JavaUtils.java:90)
+        at org.apache.spark.util.SparkFileUtils.deleteRecursively(SparkFileUtils.scala:121)
+        at org.apache.spark.util.SparkFileUtils.deleteRecursively$(SparkFileUtils.scala:120)
+        at org.apache.spark.util.Utils$.deleteRecursively(Utils.scala:1126)
+        at org.apache.spark.util.ShutdownHookManager$.$anonfun$new$4(ShutdownHookManager.scala:65)
+        at org.apache.spark.util.ShutdownHookManager$.$anonfun$new$4$adapted(ShutdownHookManager.scala:62)
+        at scala.collection.IndexedSeqOptimized.foreach(IndexedSeqOptimized.scala:36)
+        at scala.collection.IndexedSeqOptimized.foreach$(IndexedSeqOptimized.scala:33)
+        at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:198)
+        at org.apache.spark.util.ShutdownHookManager$.$anonfun$new$2(ShutdownHookManager.scala:62)
+        at org.apache.spark.util.SparkShutdownHook.run(ShutdownHookManager.scala:214)
+        at org.apache.spark.util.SparkShutdownHookManager.$anonfun$runAll$2(ShutdownHookManager.scala:188)
+        at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+        at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1928)
+        at org.apache.spark.util.SparkShutdownHookManager.$anonfun$runAll$1(ShutdownHookManager.scala:188)
+        at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+        at scala.util.Try$.apply(Try.scala:213)
+        at org.apache.spark.util.SparkShutdownHookManager.runAll(ShutdownHookManager.scala:188)
+        at org.apache.spark.util.SparkShutdownHookManager$$anon$2.run(ShutdownHookManager.scala:178)
+        at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+        at java.util.concurrent.FutureTask.run(Unknown Source)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+        at java.lang.Thread.run(Unknown Source)
+SUCCESS: The process with PID 18356 (child process of PID 25192) has been terminated.
+SUCCESS: The process with PID 25192 (child process of PID 18080) has been terminated.
+SUCCESS: The process with PID 18080 (child process of PID 27296) has been terminated.

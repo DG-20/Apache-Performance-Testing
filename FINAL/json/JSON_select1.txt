@@ -1,0 +1,62 @@
+C:\Users\LiamP\OneDrive\Desktop\533 scripts>python finalSjson1.py
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+24/04/25 20:18:18 WARN NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+24/04/25 20:18:20 WARN SizeEstimator: Failed to check whether UseCompressedOops is set; assuming yes
+Starting execution of the first query
++---------------------------+------------+
+|                      movie|review_count|
++---------------------------+------------+
+|         Dil Bechara (2020)|        7633|
+|       Wonder Woman 1984...|        6810|
+|                小丑 (2019)|        6363|
+|STAR WARS：天行者的崛起 ...|        5147|
+|              Laxmii (2020)|        4748|
+|       Gunjan Saxena: Th...|        4336|
+|       Supernatural: Car...|        3624|
+|        Coolie No. 1 (2020)|        3319|
+|               Tenet (2020)|        3122|
+|       Scam 1992: The Ha...|        3044|
++---------------------------+------------+
+
+Result count for query: 10
+Total execution time: 23.210734367370605 seconds
+
+C:\Users\LiamP\OneDrive\Desktop\533 scripts>24/04/25 20:18:50 ERROR ShutdownHookManager: Exception while deleting Spark temp dir: C:\Users\LiamP\AppData\Local\Temp\spark-306700ff-49a4-404e-9abc-6bf8d6f69f57\pyspark-6474d6b2-bb34-45d7-bd67-b819eba2b96b
+java.nio.file.NoSuchFileException: C:\Users\LiamP\AppData\Local\Temp\spark-306700ff-49a4-404e-9abc-6bf8d6f69f57\pyspark-6474d6b2-bb34-45d7-bd67-b819eba2b96b
+        at sun.nio.fs.WindowsException.translateToIOException(Unknown Source)
+        at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+        at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+        at sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(Unknown Source)
+        at sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(Unknown Source)
+        at sun.nio.fs.WindowsFileSystemProvider.readAttributes(Unknown Source)
+        at java.nio.file.Files.readAttributes(Unknown Source)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursivelyUsingJavaIO(JavaUtils.java:124)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursively(JavaUtils.java:117)
+        at org.apache.spark.network.util.JavaUtils.deleteRecursively(JavaUtils.java:90)
+        at org.apache.spark.util.SparkFileUtils.deleteRecursively(SparkFileUtils.scala:121)
+        at org.apache.spark.util.SparkFileUtils.deleteRecursively$(SparkFileUtils.scala:120)
+        at org.apache.spark.util.Utils$.deleteRecursively(Utils.scala:1126)
+        at org.apache.spark.util.ShutdownHookManager$.$anonfun$new$4(ShutdownHookManager.scala:65)
+        at org.apache.spark.util.ShutdownHookManager$.$anonfun$new$4$adapted(ShutdownHookManager.scala:62)
+        at scala.collection.IndexedSeqOptimized.foreach(IndexedSeqOptimized.scala:36)
+        at scala.collection.IndexedSeqOptimized.foreach$(IndexedSeqOptimized.scala:33)
+        at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:198)
+        at org.apache.spark.util.ShutdownHookManager$.$anonfun$new$2(ShutdownHookManager.scala:62)
+        at org.apache.spark.util.SparkShutdownHook.run(ShutdownHookManager.scala:214)
+        at org.apache.spark.util.SparkShutdownHookManager.$anonfun$runAll$2(ShutdownHookManager.scala:188)
+        at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+        at org.apache.spark.util.Utils$.logUncaughtExceptions(Utils.scala:1928)
+        at org.apache.spark.util.SparkShutdownHookManager.$anonfun$runAll$1(ShutdownHookManager.scala:188)
+        at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+        at scala.util.Try$.apply(Try.scala:213)
+        at org.apache.spark.util.SparkShutdownHookManager.runAll(ShutdownHookManager.scala:188)
+        at org.apache.spark.util.SparkShutdownHookManager$$anon$2.run(ShutdownHookManager.scala:178)
+        at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+        at java.util.concurrent.FutureTask.run(Unknown Source)
+        at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+        at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+        at java.lang.Thread.run(Unknown Source)
+SUCCESS: The process with PID 16748 (child process of PID 13976) has been terminated.
+SUCCESS: The process with PID 13976 (child process of PID 10800) has been terminated.
+SUCCESS: The process with PID 10800 (child process of PID 5264) has been terminated.

@@ -1,0 +1,3 @@
+2024-04-25 20:18:38,111:INFO:SELECT Query executed in 11.316723346710205 seconds with 10 results
+2024-04-25 20:18:39,118:INFO:CPU Usage: 0.8%, Memory Usage: 62.4%
+2024-04-25 20:18:50,556:INFO:Closing down clientserver connection
